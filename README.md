@@ -24,7 +24,7 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 3. La aplicación calculará y mostrará tu IMC junto con su categoría.
 
 ## Captura de Pantalla
-![Capturas de pantalla ](Imagenes de capturas de pantalla calculadora IMC/Codigoprincipal.jpg/Captura de pantalla.jpg/Capturadepantallados.jpg)
+![Captura de pantalla ](Imagenes de capturas de pantalla calculadora IMC/Codigoprincipal.jpg)
 
 ## Código de la Aplicación
 
