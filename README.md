@@ -25,9 +25,9 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 
 
 ## Captura de Pantalla
-![Codigoprincipal](C:/Users/SergioRodriguezGuerr/OneDrive - COLEGIO NTRA SRA DE LAS MERCEDES/Escritorio/Imagenes de capturas de pantalla calculadora IMC)
+![Codigoprincipal](C:/Users/SergioRodriguezGuerr/OneDrive - COLEGIO NTRA SRA DE LAS MERCEDES\Escritorio/Imagenes de capturas de pantalla calculadora IMC)
 ![Captura de pantalla](C:/Users/SergioRodriguezGuerr/OneDrive - COLEGIO NTRA SRA DE LAS MERCEDES/Escritorio/Imagenes de capturas de pantalla calculadora IMC)
-![Captaradepantallados]((C:/Users/SergioRodriguezGuerr/OneDrive - COLEGIO NTRA SRA DE LAS MERCEDES\Escritorio/Imagenes de capturas de pantalla calculadora IMC))
+![Captarudepantallados](C:/Users/SergioRodriguezGuerr/OneDrive - COLEGIO NTRA SRA DE LAS MERCEDES\Escritorio/Imagenes de capturas de pantalla calculadora IMC)
 
 ## Código de la Aplicación
 
