@@ -23,11 +23,6 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 2. Introduce tu altura en centímetros.
 3. La aplicación calculará y mostrará tu IMC junto con su categoría.
 
-## Código Principal
-El código principal de la calculadora está en `MainActivity.kt`.  
-La función `calcularBMI` realiza el cálculo y `getBMICategory` determina la categoría del IMC.
-
----
 
 ## Captura de Pantalla
 
