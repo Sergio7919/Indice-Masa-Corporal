@@ -1,3 +1,10 @@
+# Calculadora de IMC en Jetpack Compose
+
+Este es un ejemplo de una aplicación de Calculadora de Índice de Masa Corporal (IMC) usando Jetpack Compose en Android.
+
+## Código de la Aplicación
+
+```kotlin
 package com.example.imccalculator
 
 import android.os.Bundle
