@@ -1,6 +1,35 @@
-# Calculadora de IMC en Jetpack Compose
+# Calculadora de IMC
 
-Este es un ejemplo de una aplicación de Calculadora de Índice de Masa Corporal (IMC) usando Jetpack Compose en Android.
+Este es un proyecto de Android en Kotlin que implementa una calculadora de Índice de Masa Corporal (IMC) utilizando Jetpack Compose.
+
+## Características
+- Permite ingresar el peso en kilogramos.
+- Permite ingresar la altura en centímetros.
+- Calcula automáticamente el IMC.
+- Muestra la categoría correspondiente del IMC.
+- Diseño moderno con Jetpack Compose.
+
+## Requisitos
+- Android Studio Arctic Fox o superior.
+- Kotlin 1.5 o superior.
+- Redactar interfaz de usuario.
+
+## Instalación
+1. Abre el proyecto en Android Studio.
+2. Compila y ejecuta la aplicación en un dispositivo o emulador.
+
+## Uso
+1. Introduce tu peso en kilogramos.
+2. Introduce tu altura en centímetros.
+3. La aplicación calculará y mostrará tu IMC junto con su categoría.
+
+## Código Principal
+El código principal de la calculadora está en `MainActivity.kt`.  
+La función `calcularBMI` realiza el cálculo y `getBMICategory` determina la categoría del IMC.
+
+---
+
+## Captura de Pantalla
 
 ## Código de la Aplicación
 
