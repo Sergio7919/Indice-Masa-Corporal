@@ -188,5 +188,5 @@ fun BMICalculatorLayoutPreview() {
         BMICalculatorLayout()
     }
 }
-## Autor:
-    Sergio Rodríguez Guerrero
+
+## Autor: Sergio Rodríguez Guerrero
