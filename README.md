@@ -26,6 +26,7 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 ## Código principal
 El código principal de la calculadora está en MainActivity.kt. 
 La función calculateBMI realiza el cálculo y getBMICategory determina la categoría del IMC.
+
 ![Codigo principal](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Codigoprincipal.jpg)
 
 ## Captura de Pantalla
