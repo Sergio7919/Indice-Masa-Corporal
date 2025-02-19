@@ -1,4 +1,4 @@
-# Calculadora de IMC: Sergio Rodríguez Guerrero (autor)
+# Calculadora de IMC
 
 Este es un proyecto de Android en Kotlin que implementa una calculadora de Índice de Masa Corporal (IMC) utilizando Jetpack Compose.
 
@@ -33,3 +33,4 @@ La función calculateBMI realiza el cálculo y getBMICategory determina la categ
 ![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Captura%20de%20pantalla.jpg)
 ![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Capturadepantallados.jpg)
 
+## Autor: Sergio Rodríguez Guerrero
