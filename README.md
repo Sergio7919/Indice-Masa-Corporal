@@ -1,7 +1,9 @@
 # Calculadora de IMC
 
 Este es un proyecto de Android en Kotlin que implementa una calculadora de Índice de Masa Corporal (IMC) utilizando Jetpack Compose.
+
 ## Autor: Sergio Rodríguez Guerrero
+
 ## Características
 - Permite ingresar el peso en kilogramos.
 - Permite ingresar la altura en centímetros.
