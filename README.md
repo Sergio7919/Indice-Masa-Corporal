@@ -26,7 +26,7 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 ## Captura de Pantalla
 ![Codigo princiapal](Imagenes de capturas de pantalla calculadora IMC/Codigoprincipal.jpg)
 ![Captura de pantalla](Imagenese de capturas de pantalla calculadora IMC/Captura de pantall.jpg)
-![Captura de pantalla](Imagenes de capturas de pantalla calculadora IMC/Capturadepantallados.jpg
+![Captura de pantalla](Imagenes de capturas de pantalla calculadora IMC/Capturadepantallados.jpg)
 
 ## Código de la Aplicación
 
