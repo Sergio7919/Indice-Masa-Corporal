@@ -36,7 +36,6 @@ La función calculateBMI realiza el cálculo y getBMICategory determina la categ
 ## Test realizado
 ![Captura de pantalla del test realizado](Capturas%20Pantalla%20IMC/Test.jpg)
 ________________________________________
-Conclusión
 Este test unitario verifica que:
 1.	La función calculateBMI() devuelve los valores correctos de IMC.
 2.	La función getBMICategory() clasifica correctamente el IMC en una categoría.
