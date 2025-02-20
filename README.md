@@ -34,7 +34,7 @@ La función calculateBMI realiza el cálculo y getBMICategory determina la categ
 ![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Capturadepantallados.jpg)
 
 ## Test realizado
-![Captura de pantalla del test realizado](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Test.jpg)
+![Captura de pantalla del test realizado](Capturas%20Pantalla%20IMC/Test.jpg)
 ________________________________________
 Conclusión
 Este test unitario verifica que:
