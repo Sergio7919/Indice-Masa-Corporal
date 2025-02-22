@@ -33,7 +33,7 @@ La función calculateBMI realiza el cálculo y getBMICategory determina la categ
 ![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Captura%20de%20pantalla.jpg)
 ![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Capturadepantallados.jpg)
 
-## Test realizado
+## Test Unitario realizado
 ![Captura de pantalla del test realizado](Capturas%20Pantalla%20IMC/Test.jpg)
 ________________________________________
 Este test unitario verifica que:
@@ -41,6 +41,14 @@ Este test unitario verifica que:
 2.	La función getBMICategory() clasifica correctamente el IMC en una categoría.
 3.	Se manejan correctamente los casos borde (altura = 0).
 
+## Tes de Interfaz realizado
+![Captura de pantalla de test realizado](Pantalla%20IMC%/TestDeInterfaz.jpg)
 
+Este código es una prueba de UI en Jetpack Compose que:
+Renderiza la pantalla de cálculo de IMC.
+Simula la entrada de datos del usuario.
+Hace clic en el botón de cálculo.
+Verifica que el resultado mostrado es el esperado.
+Esto asegura que la funcionalidad de cálculo de IMC en la interfaz gráfica funciona correctamente.
 ---
 ## Autor: Sergio Rodríguez Guerrero
