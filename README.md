@@ -12,7 +12,6 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 ## Requisitos
 - Android Studio Arctic Fox o superior.
 - Kotlin 1.5 o superior.
-- Redactar interfaz de usuario.
 
 ## Instalación
 1. Abre el proyecto en Android Studio.
@@ -24,31 +23,35 @@ Este es un proyecto de Android en Kotlin que implementa una calculadora de Índi
 3. La aplicación calculará y mostrará tu IMC junto con su categoría.
 
 ## Código principal
-El código principal de la calculadora está en MainActivity.kt. 
-La función calculateBMI realiza el cálculo y getBMICategory determina la categoría del IMC.
+El código principal de la calculadora está en `MainActivity.kt`.  
+La función `calculateBMI` realiza el cálculo y `getBMICategory` determina la categoría del IMC.
 
-![Codigo principal](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Codigoprincipal.jpg)
+![Código principal](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Codigoprincipal.jpg)
 
-## Captura de Pantalla
-![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Captura%20de%20pantalla.jpg)
-![Captura de pantalla](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Capturadepantallados.jpg)
+## Capturas de Pantalla
+![Captura de pantalla 1](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Captura%20de%20pantalla.jpg)  
+![Captura de pantalla 2](Imagenes%20de%20capturas%20de%20pantalla%20calculadora%20IMC/Capturadepantallados.jpg)  
 
 ## Test Unitario realizado
 ![Captura de pantalla del test realizado](Capturas%20Pantalla%20IMC/Test.jpg)
-________________________________________
-Este test unitario verifica que:
-1.	La función calculateBMI() devuelve los valores correctos de IMC.
-2.	La función getBMICategory() clasifica correctamente el IMC en una categoría.
-3.	Se manejan correctamente los casos borde (altura = 0).
 
-## Tes de Interfaz realizado
-![Captura de pantalla de test realizado](Pantalla%20IMC%/TestDeInterfaz.jpg)
+Este test unitario verifica que:
+1. La función `calculateBMI()` devuelve los valores correctos de IMC.
+2. La función `getBMICategory()` clasifica correctamente el IMC en una categoría.
+3. Se manejan correctamente los casos borde (altura = 0).
+
+## Test de Interfaz realizado
+![Captura de pantalla del test realizado](Pantalla%20IMC/TestDeInterfaz.jpg)
 
 Este código es una prueba de UI en Jetpack Compose que:
-Renderiza la pantalla de cálculo de IMC.
-Simula la entrada de datos del usuario.
-Hace clic en el botón de cálculo.
-Verifica que el resultado mostrado es el esperado.
+- Renderiza la pantalla de cálculo de IMC.
+- Simula la entrada de datos del usuario.
+- Hace clic en el botón de cálculo.
+- Verifica que el resultado mostrado es el esperado.
+
 Esto asegura que la funcionalidad de cálculo de IMC en la interfaz gráfica funciona correctamente.
+
 ---
+
 ## Autor: Sergio Rodríguez Guerrero
+
