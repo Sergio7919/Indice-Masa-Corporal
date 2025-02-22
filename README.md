@@ -43,6 +43,7 @@ Este test unitario verifica que:
 ## Test de Interfaz realizado
 ![Captura de pantalla del test realizado](Pantallas%20IMC/TestdeInterfaz.jpg)
 
+
 Este código es una prueba de UI en Jetpack Compose que:
 - Renderiza la pantalla de cálculo de IMC.
 - Simula la entrada de datos del usuario.
