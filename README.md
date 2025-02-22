@@ -41,7 +41,7 @@ Este test unitario verifica que:
 3. Se manejan correctamente los casos borde (altura = 0).
 
 ## Test de Interfaz realizado
-![Captura de pantalla del test realizado](Pantallas_IMC/TestdeInterfaz.jpg)
+![TestdeInterfaz](Pantallas_IMC/TestdeInterfaz.jpg)
 
 
 Este código es una prueba de UI en Jetpack Compose que:
