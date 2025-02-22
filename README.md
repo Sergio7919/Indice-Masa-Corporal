@@ -41,7 +41,7 @@ Este test unitario verifica que:
 3. Se manejan correctamente los casos borde (altura = 0).
 
 ## Test de Interfaz realizado
-![Captura de pantalla del test realizado](Pantallas%20IMC/TestdeInterfaz.jpg)
+![Captura de pantalla de test realizado](https://github.com/Sergio7919/Indice-Masa-Corporal/blob/main/Pantallas%20IMC/TextdeInterfaz.jpg)
 
 Este código es una prueba de UI en Jetpack Compose que:
 - Renderiza la pantalla de cálculo de IMC.
