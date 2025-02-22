@@ -40,6 +40,7 @@ Este test unitario verifica que:
 2. La función `getBMICategory()` clasifica correctamente el IMC en una categoría.
 3. Se manejan correctamente los casos borde (altura = 0).
 
+## Test de Interfaz realizado
 ![Captura de pantalla del test realizado](https://raw.githubusercontent.com/usuario/repositorio/rama/Pantallas_IMC/TestdeInterfaz.jpg)
 
 Este código es una prueba de UI en Jetpack Compose que:
